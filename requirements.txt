@@ -1,0 +1,11 @@
+python-telegram-bot==20.7
+spotipy==2.22.1
+yt-dlp==2023.12.30
+instaloader==4.10.3
+requests==2.31.0
+python-dotenv==1.0.0
+asyncio
+aiohttp==3.9.1
+beautifulsoup4==4.12.2
+mutagen==1.47.0
+Pillow==10.1.0
